@@ -1,0 +1,7 @@
+For those looking to redact sensitive text, here are some sample texts that can be used as a reference:
+Email Address: "JohnSmith@example.com"
+Phone Number: "555-123-4567"
+IP Address: "192.168.1.1"
+URL: "https://www.example.com"
+Company Name: "ABC Company"
+These examples can be used to redact sensitive information from documents before sharing or publishing. Remember to use the appropriate redaction tool and follow the guidelines provided by the tool to ensure all sensitive information is properly redacted.

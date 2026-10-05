@@ -1,0 +1,7 @@
+# 1. Install the analyzer (finds data) and anonymizer (replaces data)
+pip install presidio-analyzer presidio-anonymizer
+
+# 2. Download the English NLP model (this is what runs locally to detect names/places)
+python -m spacy download en_core_web_lg
+
+#File path:
